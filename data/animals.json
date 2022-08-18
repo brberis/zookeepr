@@ -135,6 +135,16 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "Test Animal",
+      "species": "Test Sp",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "14"
     }
   ]
 }
